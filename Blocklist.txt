@@ -1,6 +1,7 @@
 ! Title: Blocklist
 ! Expires: 30 days
-! Сайты, Соцсети
+
+! Сайты; Соцсети
 rambler.ru
 rutube.ru
 okko.tv
