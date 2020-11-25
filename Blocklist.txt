@@ -3,16 +3,16 @@
 ! Homepage: https://github.com/Stelnar/Filters
 
 ! Сайты, Соцсети
+||facebook.com^
+||facebook.net^
+||api.ok.ru^
+||ok.ru^
 ||rambler.ru^
 ||rutube.ru^
 ||okko.tv^
 ||akket.com^
 ||rt.ru^
-||ok.ru^
-||api.ok.ru^
 ||livejournal.com^
-||facebook.com^
-||facebook.net^
 ||lrepacks.ru^
 ||diakov.net^
 
