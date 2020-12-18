@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/Stelnar/Filters
 
 ! Сайты, Соцсети
+@@||api.ok.ru^
+||ok.ru^
 ||facebook.com^
 ||facebook.net^
-||api.ok.ru^
-||ok.ru^
 ||rambler.ru^
 ||rutube.ru^
 ||okko.tv^
