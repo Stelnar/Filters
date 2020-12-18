@@ -1,6 +1,7 @@
 ! Title: Blocklist
 ! Expires: 30 days
 ! Homepage: https://github.com/Stelnar/Filters
+! Homepage: https://raw.githubusercontent.com/Stelnar/Filters/main/Blocklist.txt
 
 ! Сайты, Соцсети
 @@||api.ok.ru^
@@ -30,4 +31,3 @@
 ! Чат-виджет
 ||*webchat*
 ||*webchat-icon*
-
