@@ -30,5 +30,3 @@
 ! Чат-виджет
 ||*webchat*
 ||*webchat-icon*
-
-||ok.ru^
