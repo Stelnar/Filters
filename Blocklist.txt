@@ -31,3 +31,4 @@
 ||*webchat*
 ||*webchat-icon*
 
+||ok.ru^
