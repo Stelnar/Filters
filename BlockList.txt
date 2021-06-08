@@ -1,0 +1,31 @@
+! Title: BlockList
+! Homepage: https://github.com/Stelnar/Filters
+! Link: https://raw.githubusercontent.com/Stelnar/Filters/main/BlockList.txt
+
+! ! Исключения
+@@||api.ok.ru^
+
+! ! Трекеры
+||browser.sentry-cdn.com^
+||sentry.io^
+
+! ! Чат-виджет
+*webchat*
+
+! ! Сайты, Соцсети
+||ok.ru^
+||facebook.com^
+||facebook.net^
+||rt.ru^
+||rutube.ru^
+||rambler.ru^
+||livejournal.com^
+
+! ! Mail.ru
+||e.mail.ru^
+||my.mail.ru^
+||r0.mail.ru^
+||r3.mail.ru^
+||go.mail.ru^
+||an.mail.ru^
+
